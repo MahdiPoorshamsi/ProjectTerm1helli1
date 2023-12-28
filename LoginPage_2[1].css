@@ -1,0 +1,36 @@
+body {
+    background-image: url(back8.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.h1 {
+    font-size:xx-large;
+    color: rgb(255, 255, 255);
+    margin-left: 80px;
+}
+
+form {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 40px 35px 40px 30px;
+    margin: 100px;
+    margin-left: 475px;
+    height: 335px;
+    width: 300px;
+
+}
+.A2 {
+    margin-left: 30px;
+}
+.A3{
+    margin-left: 30px;
+}
+.A4{
+    margin: 5px;
+}
+.A5{
+    margin-left: 60px;
+}
+.A6{
+    margin-left: 100px ;
+}
